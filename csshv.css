@@ -1,0 +1,99 @@
+.fila-informacion-personal{
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              flex-wrap: wrap;
+            background: #6c80d6;
+            color: aliceblue;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 18px;
+         
+            
+            
+
+}
+.informacion-personal{
+    margin-top: 20px;
+    text-align: center;
+    
+
+   
+
+
+
+}
+img{
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 20px;
+    border-radius: 30px 
+   
+}
+.foto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap  
+    
+}
+b{
+    font-size: 22px ;
+    color:rgb(52, 60, 68);
+    
+   
+   
+
+}
+
+
+.habilidades{
+    display: flex;
+              justify-content: center;
+              align-items: center;
+            background: #5f6eb9;
+            color: aliceblue;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 18px; 
+            padding:10px ;
+            border-width: #34428b solid 1px;
+
+
+}
+small{
+    font-size: 24px ;
+    color: rgb(52, 60, 68);
+    margin :20px;
+}
+
+.fila-perfil-laboral{
+    background-color: rgb(209, 209, 238);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding :35px;
+    color: rgb(103, 110, 95);
+    text-align: justify;
+    flex-wrap: wrap  
+}
+
+.fila-experiencia-laboral{
+    background-color: rgb(189, 189, 236);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding :35px;
+    color: rgb(64, 71, 55);
+    text-align: justify;
+  
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+    text-align: end;
+
+}
